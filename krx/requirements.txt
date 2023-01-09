@@ -1,0 +1,6 @@
+Flask==2.1.1
+flask_cors==3.0.10
+flask_restx==0.5.1
+requests==2.27.1
+waitress==2.0.0
+pymysql==1.0.2
